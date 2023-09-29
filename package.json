@@ -17,7 +17,7 @@
     "javax.servlet:servlet-api": "2.3",
     "xml-apis:xml-apis": "1.0.b2",
     "org.json:json": "20131018",
-    "mysql:mysql-connector-java": "5.1.26"
+    "mysql:mysql-connector-java": "5.1.26",
     "@behance/assets-vendor": "3.3.2",
     "@docusaurus/logger": "2.0.1",
     "@babel/plugin-transform-exponentiation-operator": "7.16.7",
