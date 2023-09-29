@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "node-ipc": "9.2.2",
-    "markedjs": "3.0.4"
+    "markedjs": "3.0.4",
+    "@types/aws-lambda": "8.10.115",
+    "@types/aws-lambda": "8.10.109",
+    "@istanbuljs/nyc-config-typescript": "1.0.2"
   }
 }
